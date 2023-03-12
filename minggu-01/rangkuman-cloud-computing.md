@@ -16,7 +16,7 @@ Though service-oriented architecture advocates "Everything as a service" (with t
 Deployment models
 ------------------
 <b>Private</b>
-Private cloud is cloud infrastructure operated solely for a single organization, whether managed internally or by a third party, and hosted either internally or externally.Undertaking a private cloud project requires significant engagement to virtualize the business environment, and requires the organization to reevaluate decisions about existing resources.
+Private cloud is cloud infrastructure operated solely for a single organization, whether managed internally or by a third party, and hosted either internally or externally.Undertaking a private cloud project requires significant engagement to virtualize the business environment, and requires the organization to reevaluate decisions about existing resources.</br>
 <b>Public</b>
 Cloud services are considered "public" when they are delivered over the public Internet, and they may be offered as a paid subscription, or free of charge.Architecturally, there are few differences between public- and private-cloud services, but security concerns increase substantially when services (applications, storage, and other resources) are shared by multiple customers. Most public-cloud providers offer direct-connection services that allow customers to securely link their legacy data centers to their cloud-resident applications.
 <b>Hybrid</b>
