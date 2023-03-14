@@ -12,4 +12,4 @@ Kelas  : K1-Sistem Informasi
 
 2. [rangkuman-cloud-computing.md](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-01/rangkuman-cloud-computing.md).
 
-3. [git-kolaborasi.md]
+3. [git-kolaborasi.md](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-01/git-kolaborasi.md).

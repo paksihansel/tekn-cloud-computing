@@ -19,10 +19,10 @@ Proses forking ini dijelaskan dengan langkah-langkah berikut:
 
     5. Setelah proses, repo dari upstream author sudah berada di account GitHub kontributor
     
-![04](./git=fork-done.png)
+![04](./git-fork-done.png)
 
     6. Kemudian coba lakukan clone pada repositori lokal di pc anda
     
-![06](./git-clone-fork.png)
+![05](./git-clone-fork.png)
 
-![07](./git-clone-repolokal.png)
+![06](./git-clone-repolokal.png)
