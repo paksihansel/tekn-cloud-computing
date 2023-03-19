@@ -69,7 +69,7 @@ Some of the other benefits of implementing SaaS architecture in the business inc
 
 3.Increased automation
 
-# **Key Features and Benefits of a SaaS Architecture Platform**
+## **Key Features and Benefits of a SaaS Architecture Platform**
 
 1.The simplicity of SaaS Architecture Apps
 
@@ -87,6 +87,40 @@ Security is an important aspect of software development solutions and SaaS platf
 
 With traditional software installations, updates and patches can occasionally require enormous amounts of time and money. This is especially true in the enterprise.
 
-# **Disadvantages of a SaaS Platform**
+## **Disadvantages of a SaaS Platform**
 
 ![5](disavantage-cloud-computing.png)
+
+
+# **How to build a cloud-based SaaS application**
+-----------------------------------------------------
+
+## How to get started on your SaaS application?
+
+Which programming language, which database, which software tools should you choose? There are many questions which need to be answered. Therefore I’m trying to focus on the most important things.
+
+The perfect database for your SaaS application
+
+So, one of the first things on your list will include the installation of a database. We recommend making use of a document-oriented database. Document databases are quite different to the traditional concept of relational databases.
+
+![6](mongo-db.png)
+
+Queuing system for your SaaS application
+
+Let’s talk about a queuing system now.
+
+A message queuing system is an asynchronous communication protocol, enabling sender and receiver of a message not interacting at the same time.
+Also known as Message Queuing (MSMQ) technology it enables web apps to run at different times and to communicate with various 3rd party integrations / APIs / and other services asynchronously.
+
+![7](queque.png)
+
+AWS & EC2
+
+Building a scalable web app you’ll probably end up at using Amazon Web Services sooner or later.
+
+Why EC2?
+
+The Amazon EC2 is a must-have for and the heart of our system which provides resizable computing capacity. We basically have rented virtual servers on which our web app runs.
+The great thing here is, that those EC2 servers are spread across the world. Depending on your need to scale and which geographic markets to target first, you can select between various locations of your EC2.
+
+![8](aws-and-ec2.png)
