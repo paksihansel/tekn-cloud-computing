@@ -48,9 +48,22 @@ SaaS is a way to deliver software, the provider of the software centrally hosts 
 
 ## **Why Use SaaS Architecture?**
 
-1.Consumers
-2.Netflix
-3.Microsoft Office 365
-4.Amazon Prime
-5.Twitter
-6.Facebook
+>Consumers
+
+1.Netflix
+
+2.Microsoft Office 365
+
+3.Amazon Prime
+
+4.Twitter
+
+5.Facebook
+
+>Business
+Some of the other benefits of implementing SaaS architecture in the business include, but are not limited to:
+1.Reduced time to market
+2.Lower maintenance costs
+3.Increased automation
+
+
