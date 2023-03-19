@@ -28,3 +28,16 @@ Layanan jenis ini lebih sering dipakai bagi pengguna individu yang terbagi dalam
 ![3](dropbox-bussines.jpg)
 
 Paket jenis ini akan lebih sesuai bagi Anda yang mempunyai usaha atau perusahaan dengan jumlah pekerja yang banyak yang mengharuskan Anda menyimpan file dalam jumlah besar terus menerus. Paket ini dibagi tiga, yaitu Standard seharga 12,50 Dollar per bulan dan penyimpanan 5 TB, Advance dengan harga  20 dollar dan Enterprise dengan harga yang bisa dirundingkan. Kedua paket terakhir tadi menawarkan storage penyimpanan mengikut kemauan penggunanya.
+
+----------------------------------
+# **Adobe Creative Cloud**
+
+![4](adobe-creative-cloud.jpg)
+
+adalah platform yang menyediakan semua programnya di satu tempat yang dapat dibayar dengan berlangganan, baik untuk seluruh program maupun program yang spesifik. 
+
+## **Manfaat Menggunakan Adobe Creative Cloud**
+
+Bagi desainer grafis dan pekerja di industri kreatif lainnya, Adobe Creative Cloud merupakan solusi terbaik yang mengerti kebutuhan penggunanya. Pilih software yang sesuai kebutuhan sehingga kamu terhindar dari kesulitan menggunakan software bajakan atau versi trial yang harus berakhir masa percobaannya setelah sebulan atau bahkan seminggu. 
+
+![5](adobe-crative-app.png)
