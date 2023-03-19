@@ -124,3 +124,16 @@ The Amazon EC2 is a must-have for and the heart of our system which provides res
 The great thing here is, that those EC2 servers are spread across the world. Depending on your need to scale and which geographic markets to target first, you can select between various locations of your EC2.
 
 ![8](aws-and-ec2.png)
+
+Web Storage S3
+
+Getting more and more users on board for your product will make you easily wonder about your web storage. With the Amazon S3 storage service, we have a great, and highly scalable object storage installed.
+
+![9](web-storage.png)
+
+Content Delivery Network for your SaaS application
+
+A content delivery network (CDN) is basically a system of distributed servers which enables you to serve content to your app users with high performance and high availability.
+Let’s assume you have 3 EC2s installed. One in the US, one in Europe and one in Singapore. If someone from New York visits your app, the CDN enables you to serve content to the user through the EC2 located in the US.
+
+![10](content-delivery-network.png)
