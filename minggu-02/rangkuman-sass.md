@@ -62,8 +62,31 @@ SaaS is a way to deliver software, the provider of the software centrally hosts 
 
 >Business
 Some of the other benefits of implementing SaaS architecture in the business include, but are not limited to:
+
 1.Reduced time to market
+
 2.Lower maintenance costs
+
 3.Increased automation
 
+# **Key Features and Benefits of a SaaS Architecture Platform**
 
+1.The simplicity of SaaS Architecture Apps
+
+Software applications architected as SaaS solutions are typically accessed over the web through various types of devices.
+
+2.Economical Value
+
+The monthly or annual subscript fee payment model makes it easier for businesses to budget, couple this with zero infrastructure setup costs, and it’s easy to see how opting to use SaaS solutions can save the business money.
+
+3.Security
+
+Security is an important aspect of software development solutions and SaaS platforms are no different.
+
+4.Compatibility
+
+With traditional software installations, updates and patches can occasionally require enormous amounts of time and money. This is especially true in the enterprise.
+
+# **Disadvantages of a SaaS Platform**
+
+![5](disavantage-cloud-computing.png)
