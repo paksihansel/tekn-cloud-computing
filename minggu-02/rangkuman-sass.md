@@ -34,6 +34,8 @@ There are two main varieties of SaaS:
 
 2.Horizontal SaaS The products which focus on a software category (marketing, sales, developer tools, HR) but are industry agnostic.    
 
+![11](sass-architecture.png)
+
 ## **Benefit of SAAS**
 
 It offers substantial opportunities for organizations of all sizes to shift the risks of software acquisition, and to move IT from a reactive cost center to being a proactive, value-producing part of the enterprise. Traditionally, deploying large-scale software systems has been a major undertaking. Deploying these systems across a large enterprise costs more. 
