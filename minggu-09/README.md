@@ -1,4 +1,4 @@
-Praktikum Teknologi Cloud Computing - Minggu 8
+Praktikum Teknologi Cloud Computing - Minggu 9
 =====================
 
 Nama : Paksi Hansel Arya Putra
