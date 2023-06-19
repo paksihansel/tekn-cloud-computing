@@ -8,5 +8,5 @@ NIM : 205611022
 Kelas  : K1-Sistem Informasi
 --------
 
-1. [Docker Networking.](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-09/dockerlinux.md).
+1. [Docker Networking.](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-10/dockernetwork.md).
 
