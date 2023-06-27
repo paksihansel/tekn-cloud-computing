@@ -8,4 +8,4 @@ NIM : 205611022
 Kelas  : K1-Sistem Informasi
 --------
 
-1. [Containerization and Orchestration.](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-10/dockernetwork.md).
+1. [Containerization and Orchestration.](https://github.com/paksihansel/tekn-cloud-computing/blob/master/minggu-11/containerndorchestra.md).
